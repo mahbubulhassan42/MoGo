@@ -1,0 +1,267 @@
+/* Extra small devices */
+@media (max-width: 575.98px) { 
+    .banner_text h4 {
+       
+        font-size: 25px;
+        
+    }
+    .banner_text h2 {
+        
+        font-size: 40px;
+       
+    }
+    .banner {
+        padding-top: 130px;
+        padding-bottom: 130px;
+       
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+
+    .about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .ab_heading h4 {
+        font-size: 20px;
+       
+    }
+    .ab_heading p {
+        margin-top: 70px;
+        padding: 0px 0px;
+    }
+    .ab_image {
+        margin-bottom: 10px;
+    }
+    .count_down {
+        padding: 50px 0;
+    }
+    .service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .service_heading h2 {
+        font-size: 20px;
+    }
+    .ser_item {
+        text-align: center;
+    }
+    .ser_text h5 {
+        margin-top: 10px;
+    }
+    .msg {
+        padding: 50px 0;
+        text-align: center;
+    }
+    .msg_text p {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .msg_text h3::before {
+        left: 0px;
+    }
+    .team {
+        padding-top: 50px;
+    }
+    .team_heading h4 {
+        font-size: 20px;
+    }
+    .team_heading p {
+        padding: 0px 0px;
+    }
+    .img_name h2 {
+        margin-top: 10px;
+    }
+    .team_overly_icon i {
+        font-size: 14px;
+        padding: 3px;
+    }
+    .work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .work_heading h2 {
+        font-size: 20px;
+    }
+    .footer {
+        padding: 50px 0;
+    }
+    .blog_item h3 {
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .blog_text {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .instagram h3 {
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+ }
+
+ /* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .banner_text h4 {
+        font-size: 40px;
+    }
+    .banner_text h2 {
+        font-size: 70px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .banner {
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }
+    .about {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .ab_heading p {
+        margin-top: 80px;
+    }
+    .ab_image {
+        margin-top: 10px;
+    }
+    .count_down {
+        padding: 60px 0;
+    }
+    .service {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .ser_item {
+        text-align: center;
+    }
+    .ser_text h5 {
+        margin-top: 10px;
+    }
+    .msg {
+        padding: 60px 0;
+        text-align: center;
+    }
+    .msg_text p {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    .msg_text h3::before {
+        left: 110px;
+    }
+    .team {
+        padding-top: 60px;
+    }
+    .team_overly_icon i {
+        font-size: 12px;
+        padding: 3px;
+    }
+    .img_name h2 {
+        margin-top: 10px;
+    }
+    .work {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer {
+        padding: 50px 0;
+    }
+    .blog_item h3 {
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+    .blog_text {
+        text-align: center;
+    }
+    .instagram h3 {
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+ }
+
+ /* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .banner_text h2 {
+        font-size: 95px;
+    }
+    .banner_text h4 {
+        font-size: 55px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .banner {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    .about {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    .ab_heading p {
+        margin-top: 80px;
+    }
+    .ab_image {
+        margin-top: 20px;
+    }
+    .count_down {
+        padding: 75px 0;
+    }
+    .service {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    .ser_item {
+        text-align: center;
+    }
+    .ser_text h5 {
+        margin-top: 10px;
+    }
+    .msg_text p {
+        font-size: 20px;
+    }
+    .team {
+        padding-top: 75px;
+    }
+    .team_img {
+        margin-top: 20px;
+    }
+    .team_overly_icon i {
+        font-size: 19px;
+        padding: 4px;
+    }
+    .img_name h2 {
+        margin-top: 20px;
+    }
+    .work {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    .work_heading p {
+        font-size: 17px;
+    }
+    .form-control {
+        width: 81%;
+    }
+    .blog_item h3 {
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .blog_text h4 {
+        font-size: 16px;
+    }
+    .blog_text p {
+        font-size: 16px;
+    }
+    .blog_text {
+        margin-top: 30px;
+    }
+    .instagram h3 {
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .ins_img {
+        margin: 2px;
+    }
+ }
